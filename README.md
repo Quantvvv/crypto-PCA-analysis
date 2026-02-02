@@ -42,6 +42,8 @@ For assets identified as "anomalies," the system performs a deep dive:
 *   **Rolling Z-Score**: Normalizes the spread deviation to identify statistically significant entry and exit points (Overbought/Oversold).
 *   **Risk Metrics**: Provides descriptive statistics (`mean`, `std`, `max drawdowns`) for position sizing and risk management.
 
+(To understand the logic and deeper settings, read the "Settings and Logic" file.)
+
 ## 📊 Key Visualizations
 *   **Heatmap**: Cross-correlation matrix of the top 30 assets.
 *   **PC2 Loadings Chart**: Highlights specific coins that are currently "decoupled" from the market.
